@@ -1,0 +1,12 @@
+LOCUS       gfpuv_sigpep_Bam           1 bp    DNA     linear
+ACCESSION   gfpuv_sigpep_Bam
+VERSION     gfpuv_sigpep_Bam.1
+KEYWORDS    .
+FEATURES             Location/Qualifiers
+     CDS             1
+                     /label=GFPuv
+     misc_feature    1
+                     /label=BamHI_silent_mutation
+ORIGIN
+        1 t
+//

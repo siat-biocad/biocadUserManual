@@ -1,0 +1,28 @@
+LOCUS       Untitled_Sequence        447 bp    DNA     linear   SYN 21-DEC-2022
+DEFINITION  .
+ACCESSION   Untitled_Sequence
+VERSION     Untitled_Sequence
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    15..18
+                     /label="C scar"
+                     /color="#ff6600"
+     misc_feature    19..429
+                     /label="T49"
+                     /color="#00ffff"
+     misc_feature    430..433
+                     /label="D scar"
+                     /color="#ff8040"
+ORIGIN
+        1 gaccctgaag actgtaaaat cctatgagga tataaacagt attaaaaaaa tcttaccata
+       61 aagacatacg acatttcgag gcgtttttgc ttttctttta actttcgttg gcacaaactg
+      121 aaatatatgt ggaatgccct ctgaaaatat actaggagtt ttgagcgatc caaacatttt
+      181 cttttctttt tttctcttcc ttctagcgaa gtcctcttgc gttagctgta aacaaaataa
+      241 gtcaatttca ttaatgaaaa gtgacattat ggcggtagct ctctctatct ttgttcagtt
+      301 atcaacatat agtcatactt aaagatataa tagctcatag tcatatatag ttctttatac
+      361 ttgaaaaagt gattcctaaa aatctcaact tttttcacat tgtatttaca agataataaa
+      421 attattaccc ctctagtctt cgtactg
+//

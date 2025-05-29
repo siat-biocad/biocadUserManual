@@ -1,0 +1,12 @@
+LOCUS       gfpuv_sigpep_Xho           1 bp    DNA     linear
+ACCESSION   gfpuv_sigpep_Xho
+VERSION     gfpuv_sigpep_Xho.1
+KEYWORDS    .
+FEATURES             Location/Qualifiers
+     CDS             1
+                     /label=GFPuv
+     misc_feature    1
+                     /label=XhoI_silent_mutation
+ORIGIN
+        1 a
+//

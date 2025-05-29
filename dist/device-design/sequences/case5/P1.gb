@@ -1,0 +1,27 @@
+LOCUS       Untitled_Sequence        586 bp    DNA     linear   SYN 21-DEC-2022
+DEFINITION  .
+ACCESSION   Untitled_Sequence
+VERSION     Untitled_Sequence
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    15..18
+                     /label="A_scar"
+                     /color="#00ff00"
+     misc_feature    569..572
+                     /label="B scar"
+                     /color="#00ff00"
+ORIGIN
+        1 gaccctgaag actgttttaa aatgtgtggg gaagcgggta agctgccaca gcaattaatg
+       61 cacaacattt aacctacatt cttccttatc ggatcctcaa aacccttaaa aacatatgcc
+      121 tcaccctaac atattttcca attaaccctc aatatttctc tgtcacccgg cctctatttt
+      181 ccattttctt ctttacccgc cacgcgtttt tttctttcaa atttttttct tctttcttct
+      241 ttttcttcca cgtcctcttg cataaataaa taaaccgttt tgaaaccaaa ctcgcctctc
+      301 tctctccttt ttgaaatatt tttgggtttg tttgatcctt tccttcccaa tctctcttgt
+      361 ttaatatata ttcatttata tcacgctctc tttttatctt cctttttttc ctctctcttg
+      421 tattcttcct tcccctttct actcaaacca agaagaaaaa gaaaaggtca atctttgtta
+      481 aagaatagga tcttctacta catcagcttt tagatttttc acgcttactg cttttttctt
+      541 cccaagatcg aaaatttact gaattaacaa tgtagtcttc gtactg
+//

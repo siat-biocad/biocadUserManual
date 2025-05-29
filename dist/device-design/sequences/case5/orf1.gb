@@ -1,0 +1,33 @@
+LOCUS       Untitled_Sequence        744 bp    DNA     linear   SYN 21-DEC-2022
+DEFINITION  .
+ACCESSION   Untitled_Sequence
+VERSION     Untitled_Sequence
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    727..730
+                     /label="C scar"
+                     /color="#ff8000"
+     misc_feature    16..726
+                     /label="ORF1_mRuby2"
+                     /color="#fc2c46"
+     misc_feature    15..18
+                     /label="B scar"
+                     /color="#ff8040"
+ORIGIN
+        1 gaccctgaag actgaatggt ttccaagggt gaagaattga tcaaggaaaa catgagaatg
+       61 aaggttgtca tggaaggttc tgtcaacggt caccaattca aatgtaccgg tgaaggtgaa
+      121 ggtaacccat acatgggtac tcaaaccatg agaatcaagg ttattgaagg tggtccatta
+      181 ccatttgctt tcgacatctt ggctacttct ttcatgtacg gttccagaac tttcatcaaa
+      241 tacccaaagg gtattccaga cttcttcaag caatccttcc cagaaggttt cacctgggaa
+      301 agagttaccc gttacgagga tggtggtgtt gtcaccgtca tgcaagatac ctctttggaa
+      361 gatggttgtt tggtctacca cgttcaagtc cgtggtgtca acttcccatc taacggtcct
+      421 gttatgcaaa agaaaaccaa gggttgggaa ccaaacactg aaatgatgta cccagctgac
+      481 ggtggtttga gaggttacac tcacatggct ttgaaggtcg atggtggtgg tcacttgtct
+      541 tgttctttcg tcaccactta cagatccaaa aagactgttg gtaacatcaa gatgccaggt
+      601 attcatgccg ttgaccacag attggaaaga ttggaagaat ctgacaacga aatgttcgtt
+      661 gtccaaagag aacacgctgt tgccaaattt gctggtttgg gtggtggtat ggatgaatta
+      721 tacaagtaaa tagtcttcgt actg
+//
