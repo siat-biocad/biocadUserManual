@@ -1,4 +1,4 @@
-import { _ as _export_sfc, r as resolveComponent, c as createElementBlock, a as createBaseVNode, d as createTextVNode, e as createVNode, f as withCtx, b as createStaticVNode, o as openBlock } from "./app-CvcPtYXj.js";
+import { _ as _export_sfc, r as resolveComponent, c as createElementBlock, a as createBaseVNode, d as createTextVNode, e as createVNode, f as withCtx, b as createStaticVNode, o as openBlock } from "./app-wHNjQSIG.js";
 const _sfc_main = {};
 const _hoisted_1 = {
   href: "http://139.9.4.173/client/gene-ui/dist/index.html#/login",

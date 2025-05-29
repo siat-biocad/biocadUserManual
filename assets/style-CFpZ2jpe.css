@@ -7902,10 +7902,16 @@ li svg {
   width: auto !important;
   border-radius: 0px !important;
   margin-right: 10px !important;
+  border: none !important;
 }
 
 #app img {
   margin: 0 auto;
+  border: 1px solid #eeeeee;
+}
+
+#app img+img {
+  margin-top: 15px;
 }
 /* 仅在需要在 class 属性中使用 tailwind 时才需要下面的引用 */
 /* ! tailwindcss v3.4.4 | MIT License | https://tailwindcss.com */

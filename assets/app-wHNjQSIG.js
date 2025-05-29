@@ -3,7 +3,7 @@ var __defNormalProp = (obj, key, value) => key in obj ? __defProp(obj, key, { en
 var __publicField = (obj, key, value) => __defNormalProp(obj, typeof key !== "symbol" ? key + "" : key, value);
 const scriptRel = "modulepreload";
 const assetsURL = function(dep) {
-  return "/" + dep;
+  return "/biocadUserManual/" + dep;
 };
 const seen = {};
 const __vitePreload = function preload(baseModule, deps, importerUrl) {
@@ -10002,107 +10002,107 @@ const redirects$1 = JSON.parse('{"/docs/device-design/guide/%E5%8A%9F%E8%83%BD%E
 const routes$1 = Object.fromEntries([
   ["/timeline.html", { loader: () => __vitePreload(() => import(
     /* webpackChunkName: "timeline.html" */
-    "./timeline.html-CVjmBDhc.js"
+    "./timeline.html-APm8jVJ1.js"
   ), true ? [] : void 0), meta: { "title": "" } }],
   ["/posts.html", { loader: () => __vitePreload(() => import(
     /* webpackChunkName: "posts.html" */
-    "./posts.html-H2zf3cco.js"
+    "./posts.html-bukbJvmo.js"
   ), true ? [] : void 0), meta: { "title": "" } }],
   ["/friendship-link.html", { loader: () => __vitePreload(() => import(
     /* webpackChunkName: "friendship-link.html" */
-    "./friendship-link.html-50-uSu3j.js"
+    "./friendship-link.html-B3bgDsq6.js"
   ), true ? [] : void 0), meta: { "title": "" } }],
   ["/", { loader: () => __vitePreload(() => import(
     /* webpackChunkName: "index.html" */
-    "./index.html-CVFXnQeb.js"
+    "./index.html-wd_qKfz5.js"
   ), true ? [] : void 0), meta: { "title": "" } }],
   ["/docs/component-library/", { loader: () => __vitePreload(() => import(
     /* webpackChunkName: "docs_component-library_index.html" */
-    "./index.html-Csa7JiY7.js"
+    "./index.html-mDEkeKB4.js"
   ), true ? [] : void 0), meta: { "title": "认识元件库" } }],
-  ["/docs/device-design/", { loader: () => __vitePreload(() => import(
-    /* webpackChunkName: "docs_device-design_index.html" */
-    "./index.html-DctWy_OC.js"
-  ), true ? [] : void 0), meta: { "title": "软件介绍" } }],
   ["/docs/guide/introduce.html", { loader: () => __vitePreload(() => import(
     /* webpackChunkName: "docs_guide_introduce.html" */
-    "./introduce.html-BJ-mccaQ.js"
+    "./introduce.html-xYrwVDGK.js"
   ), true ? [] : void 0), meta: { "title": "" } }],
+  ["/docs/device-design/", { loader: () => __vitePreload(() => import(
+    /* webpackChunkName: "docs_device-design_index.html" */
+    "./index.html-PNDSpQva.js"
+  ), true ? [] : void 0), meta: { "title": "软件介绍" } }],
   ["/docs/component-library/guide/1-login.html", { loader: () => __vitePreload(() => import(
     /* webpackChunkName: "docs_component-library_guide_1-login.html" */
-    "./1-login.html-rJGWOqRA.js"
+    "./1-login.html-D4dR0a35.js"
   ), true ? [] : void 0), meta: { "title": "第一步：登录与注册" } }],
   ["/docs/component-library/guide/2-sysOverview.html", { loader: () => __vitePreload(() => import(
     /* webpackChunkName: "docs_component-library_guide_2-sysOverview.html" */
-    "./2-sysOverview.html-DV9F0Pbg.js"
+    "./2-sysOverview.html-CpHVDf6j.js"
   ), true ? [] : void 0), meta: { "title": "第二步：认识系统界面" } }],
   ["/docs/component-library/guide/3-dataModelConfig.html", { loader: () => __vitePreload(() => import(
     /* webpackChunkName: "docs_component-library_guide_3-dataModelConfig.html" */
-    "./3-dataModelConfig.html-B_QofaLs.js"
+    "./3-dataModelConfig.html-DMk1YgNr.js"
   ), true ? [] : void 0), meta: { "title": "第三步：数据配置" } }],
   ["/docs/component-library/more/1-store.html", { loader: () => __vitePreload(() => import(
     /* webpackChunkName: "docs_component-library_more_1-store.html" */
-    "./1-store.html-DLl3Mb3w.js"
+    "./1-store.html-CUlcH1zu.js"
   ), true ? [] : void 0), meta: { "title": "元件商城" } }],
   ["/docs/component-library/more/2-groupManage.html", { loader: () => __vitePreload(() => import(
     /* webpackChunkName: "docs_component-library_more_2-groupManage.html" */
-    "./2-groupManage.html-2gLVhXoJ.js"
+    "./2-groupManage.html-sLqHA7B6.js"
   ), true ? [] : void 0), meta: { "title": "团队管理" } }],
   ["/docs/component-library/more/3-project.html", { loader: () => __vitePreload(() => import(
     /* webpackChunkName: "docs_component-library_more_3-project.html" */
-    "./3-project.html-CZAQvv_M.js"
+    "./3-project.html-BXe5dk-a.js"
   ), true ? [] : void 0), meta: { "title": "项目管理" } }],
   ["/docs/component-library/more/4-userDataBase.html", { loader: () => __vitePreload(() => import(
     /* webpackChunkName: "docs_component-library_more_4-userDataBase.html" */
-    "./4-userDataBase.html-CPgoDBQJ.js"
+    "./4-userDataBase.html-CXlfKAH7.js"
   ), true ? [] : void 0), meta: { "title": "数据管理首页" } }],
   ["/docs/component-library/more/5-partsManage.html", { loader: () => __vitePreload(() => import(
     /* webpackChunkName: "docs_component-library_more_5-partsManage.html" */
-    "./5-partsManage.html-C63lKTXK.js"
+    "./5-partsManage.html-BZS7G2Lw.js"
   ), true ? [] : void 0), meta: { "title": "元件管理" } }],
   ["/docs/component-library/more/6-sampleManage.html", { loader: () => __vitePreload(() => import(
     /* webpackChunkName: "docs_component-library_more_6-sampleManage.html" */
-    "./6-sampleManage.html-CMkU_kCs.js"
+    "./6-sampleManage.html-CsIvKgAX.js"
   ), true ? [] : void 0), meta: { "title": "样品管理" } }],
   ["/docs/component-library/more/7-approve.html", { loader: () => __vitePreload(() => import(
     /* webpackChunkName: "docs_component-library_more_7-approve.html" */
-    "./7-approve.html-Cld7nvA4.js"
+    "./7-approve.html-DIVnoPax.js"
   ), true ? [] : void 0), meta: { "title": "审批流程" } }],
   ["/docs/device-design/FAQ/", { loader: () => __vitePreload(() => import(
     /* webpackChunkName: "docs_device-design_FAQ_index.html" */
-    "./index.html-CrrO1XlL.js"
+    "./index.html-d_KDMCLu.js"
   ), true ? [] : void 0), meta: { "title": "FAQ" } }],
   ["/docs/device-design/guide/gongnenditu.html", { loader: () => __vitePreload(() => import(
     /* webpackChunkName: "docs_device-design_guide_功能地图.html" */
-    "./gongnenditu.html-DO2deSE9.js"
+    "./gongnenditu.html-DDdPuSNt.js"
   ), true ? [] : void 0), meta: { "title": "功能地图" } }],
   ["/docs/device-design/guide/kuaisushangshou.html", { loader: () => __vitePreload(() => import(
     /* webpackChunkName: "docs_device-design_guide_快速上手.html" */
-    "./kuaisushangshou.html-CslGe3JN.js"
+    "./kuaisushangshou.html-DO0mpK_k.js"
   ), true ? [] : void 0), meta: { "title": "快速上手" } }],
   ["/docs/device-design/guide/xiangxijieshao.html", { loader: () => __vitePreload(() => import(
     /* webpackChunkName: "docs_device-design_guide_详细介绍.html" */
-    "./xiangxijieshao.html-B24oFbRR.js"
+    "./xiangxijieshao.html-CVrP8pTq.js"
   ), true ? [] : void 0), meta: { "title": "详细介绍" } }],
   ["/docs/device-design/more/DNAzuzhuangjieshao.html", { loader: () => __vitePreload(() => import(
     /* webpackChunkName: "docs_device-design_more_DNA组装介绍.html" */
-    "./DNAzuzhuangjieshao.html-CgGGVHh6.js"
+    "./DNAzuzhuangjieshao.html-BdmhpjWy.js"
   ), true ? [] : void 0), meta: { "title": "DNA组装介绍" } }],
   ["/docs/device-design/more/canshuxiangjie.html", { loader: () => __vitePreload(() => import(
     /* webpackChunkName: "docs_device-design_more_参数详解.html" */
-    "./canshuxiangjie.html-Da8m2Nia.js"
+    "./canshuxiangjie.html-DS-jgyOS.js"
   ), true ? [] : void 0), meta: { "title": "参数详解" } }],
   ["/docs/device-design/more/anlijieshao.html", { loader: () => __vitePreload(() => import(
     /* webpackChunkName: "docs_device-design_more_案例介绍.html" */
-    "./anlijieshao.html-C3MrdU7k.js"
+    "./anlijieshao.html-DpJWan7_.js"
   ), true ? [] : void 0), meta: { "title": "案例介绍" } }],
   ["/docs/device-design/more/zhuangzhishejigaishu.html", { loader: () => __vitePreload(() => import(
     /* webpackChunkName: "docs_device-design_more_装置设计概述.html" */
-    "./zhuangzhishejigaishu.html-CmAEgvoe.js"
+    "./zhuangzhishejigaishu.html-CWSE7Bvq.js"
   ), true ? [] : void 0), meta: { "title": "装置设计概述" } }],
   ["/404.html", { loader: () => __vitePreload(() => import(
     /* webpackChunkName: "404.html" */
-    "./404.html-BEvOVCf-.js"
+    "./404.html-Yk1U3SRv.js"
   ), true ? [] : void 0), meta: { "title": "" } }]
 ]);
 function getDevtoolsGlobalHook() {
@@ -12927,7 +12927,7 @@ var RouteLink = /* @__PURE__ */ defineComponent({
     const router = useRouter();
     const route = useRoute();
     const path = computed(
-      () => props.to.startsWith("#") || props.to.startsWith("?") ? props.to : `${"/"}${resolveRouteFullPath(props.to, route.path).substring(1)}`
+      () => props.to.startsWith("#") || props.to.startsWith("?") ? props.to : `${"/biocadUserManual/"}${resolveRouteFullPath(props.to, route.path).substring(1)}`
     );
     return () => h(
       "a",
@@ -13055,7 +13055,7 @@ var resolvers = reactive({
 var defineClientConfig = (clientConfig = {}) => clientConfig;
 var withBase = (url) => {
   if (isLinkHttp(url)) return url;
-  return `${"/"}${removeLeadingSlash(url)}`;
+  return `${"/biocadUserManual/"}${removeLeadingSlash(url)}`;
 };
 function tryOnScopeDispose$1(fn2) {
   if (getCurrentScope()) {
@@ -18312,8 +18312,8 @@ const clientConfig6 = /* @__PURE__ */ Object.freeze(/* @__PURE__ */ Object.defin
 }, Symbol.toStringTag, { value: "Module" }));
 const clientConfig_8ca30e8c = {
   enhance: ({ app }) => {
-    app.component("IconCompass", /* @__PURE__ */ defineAsyncComponent(() => __vitePreload(() => import("./IconCompass-B0RVSq2U.js"), true ? [] : void 0)));
-    app.component("IconHome", /* @__PURE__ */ defineAsyncComponent(() => __vitePreload(() => import("./IconHome-6pUCwq39.js"), true ? [] : void 0)));
+    app.component("IconCompass", /* @__PURE__ */ defineAsyncComponent(() => __vitePreload(() => import("./IconCompass-QbkQyK6o.js"), true ? [] : void 0)));
+    app.component("IconHome", /* @__PURE__ */ defineAsyncComponent(() => __vitePreload(() => import("./IconHome-BHig0Kb9.js"), true ? [] : void 0)));
   }
 };
 const clientConfig7 = /* @__PURE__ */ Object.freeze(/* @__PURE__ */ Object.defineProperty({
@@ -29353,7 +29353,7 @@ const _sfc_main$3 = /* @__PURE__ */ defineComponent({
     return __returned__;
   }
 });
-const _imports_0 = "/assets/taken-BlFnQ52t.svg";
+const _imports_0 = "/biocadUserManual/assets/taken-BlFnQ52t.svg";
 const _hoisted_1$3 = { class: "page-404-wrapper" };
 const _hoisted_2$3 = { class: "content" };
 function _sfc_render$3(_ctx, _cache, $props, $setup, $data, $options) {
@@ -29637,13 +29637,13 @@ const clientConfigs = [
   clientConfig12,
   clientConfig13
 ].map((m2) => m2.default).filter(Boolean);
-const siteData$1 = JSON.parse('{"base":"/","lang":"en-US","title":"生物设计软件用户手册中心","description":"生物设计软件的用户指南","head":[],"locales":{}}');
+const siteData$1 = JSON.parse('{"base":"/biocadUserManual/","lang":"en-US","title":"生物设计软件用户手册中心","description":"生物设计软件的用户指南","head":[],"locales":{}}');
 var siteData = shallowRef(siteData$1);
 var historyCreator = createWebHistory;
 var createVueRouter = () => {
   const router = createRouter({
     // it might be an issue of vue-router that have to remove the ending slash
-    history: historyCreator(removeEndingSlash("/")),
+    history: historyCreator(removeEndingSlash("/biocadUserManual/")),
     routes: [
       {
         name: "vuepress-route",
@@ -29869,7 +29869,7 @@ var createVueApp = async () => {
   const globalComputed = setupGlobalComputed(app, router, clientConfigs);
   {
     const { setupDevtools } = await __vitePreload(async () => {
-      const { setupDevtools: setupDevtools2 } = await import("./setupDevtools-7MC2TMWH-Duz_XwwQ.js");
+      const { setupDevtools: setupDevtools2 } = await import("./setupDevtools-7MC2TMWH-Cqa67Ejh.js");
       return { setupDevtools: setupDevtools2 };
     }, true ? [] : void 0);
     setupDevtools(app, globalComputed);
